@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav ul li{
+    list-style-type: none;
+    padding: 10px;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    margin-left: 35px;
+    color: rgb(0, 255, 77);
+    
+}
+nav{
+    background-color: rgb(0, 0, 0);
+}
+nav ul li a:hover{
+    background-color: white;
+    color: black;
+}
+
+.arkaplan{
+    opacity: 5;
+}
+
+
+.orta_metin{
+    
+    text-align: center;
+    border-style: outset;
+    border-top-width: 5px;
+    border-color: rgb(0, 255, 255);
+    border-radius: 7px;
+    margin-top: -100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    color: white;
+}
+.icerik{
+    clear: both;
+    display: inline;
+    background-color: gray;
+}
+.genis_div{
+    width: 300px;
+    height: 300px;
+    
+}   
+.foto{
+    
+    justify-content:space-between;
+
+}
+
+.sefo{
+    margin-top: -500px;
+}
+
+.khont{
+    margin-top: -0px;
+}
+
+
+.vizyon_metin{
+    text-align: center;
+    border-style: solid;
+    border-top-width: 5px;
+    border-color: rgb(0, 255, 255);
+    border-radius: 7px;
+    margin-top: -100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    color: white;
+}
+.misyon_metin{
+    text-align: center;
+    border-style: solid;
+    border-top-width: 5px;
+    border-color: rgb(0, 255, 38);
+    border-radius: 7px;
+    margin-top: -100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    color: rgb(255, 0, 0);
+}
+.gorus_metin{
+    text-align: center;
+    border-style: solid;
+    border-top-width: 5px;
+    border-color: rgb(0, 255, 38);
+    border-radius: 7px;
+    margin-top: -100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    color: rgb(255, 0, 0);
+}
+.cakalwp{
+    margin-left: -350px ;
+}
+.sefowp{
+    margin-left: +300px;
+    margin-top: -150px;
+}
+
+.sosyalmedya{
+    color: white;
+    text-align: center;
+    border-bottom: 0cqb;
+}
+.insta2{
+    clear: both;
+    color: blue;
+
+}
+.bizkimiz_metin{
+    color: white;
+    text-align: center;
+}
+.projeler{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.email{
+    color:white;
+}
+
+
+
+
+.adsoyad{
+    text-align: center;
+}
+.adrestr{
+    text-align: center;
+    color:white;
+    height: 500px;
+    text-size-adjust: 300px;
+}
+.hesap123{
+    text-align: center;
+    text-size-adjust: 4222px;
+}
+.insta1{
+    text-align: center;
+}
+.bizeulasin{
+    color: white;
+    text-align: center;
+}
+.gonderbtn{
+    margin-right: -150px;
+}
+.instasol{
+    margin-top: -1000px;
+}
+.instaorta{
+    margin-top: -510px;
+    margin-left: 500px;
+}
+.arkaplan2{
+    background-size: cover;
+}
+
+.sanatcilar img{
+    max-width: 400px;
+    max-height: 400px;
+    margin: 10px 50px;
+}
+.sosyalmedyalogo img{
+    max-width: 400px;
+    max-height: 400px;
+    margin: 10px 50px;
+}
+.adreslogo{
+    margin-left:  580px;
+    margin-top: -300px;
+}
